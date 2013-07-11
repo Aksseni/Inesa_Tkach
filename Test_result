@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="340" lt="336" ts="1373549176143" s="true" lb="google" rc="200" rm="OK" tn="JMeter Users 1-1" dt="text" by="11328"/>
+<httpSample t="183" lt="177" ts="1373549176328" s="true" lb="google" rc="200" rm="OK" tn="JMeter Users 1-1" dt="text" by="11392"/>
+<httpSample t="186" lt="182" ts="1373549176516" s="true" lb="google" rc="200" rm="OK" tn="JMeter Users 1-1" dt="text" by="11392"/>
+<httpSample t="1490" lt="373" ts="1373549178007" s="true" lb="yahoo" rc="200" rm="OK" tn="JMeter Users 1-1" dt="text" by="241646"/>
+<httpSample t="185" lt="181" ts="1373549178193" s="true" lb="google" rc="200" rm="OK" tn="JMeter Users 1-1" dt="text" by="11404"/>
+<httpSample t="182" lt="180" ts="1373549178377" s="true" lb="google" rc="200" rm="OK" tn="JMeter Users 1-1" dt="text" by="11360"/>
+<httpSample t="189" lt="184" ts="1373549178568" s="true" lb="google" rc="200" rm="OK" tn="JMeter Users 1-1" dt="text" by="11376"/>
+<httpSample t="594" lt="177" ts="1373549179164" s="true" lb="yahoo" rc="200" rm="OK" tn="JMeter Users 1-1" dt="text" by="241653"/>
+<httpSample t="196" lt="179" ts="1373549179362" s="true" lb="google" rc="200" rm="OK" tn="JMeter Users 1-1" dt="text" by="11404"/>
+<httpSample t="184" lt="179" ts="1373549179548" s="true" lb="google" rc="200" rm="OK" tn="JMeter Users 1-1" dt="text" by="11468"/>
+<httpSample t="178" lt="174" ts="1373549179728" s="true" lb="google" rc="200" rm="OK" tn="JMeter Users 1-1" dt="text" by="11312"/>
+<httpSample t="744" lt="198" ts="1373549180474" s="true" lb="yahoo" rc="200" rm="OK" tn="JMeter Users 1-1" dt="text" by="241648"/>
+<httpSample t="181" lt="174" ts="1373549180657" s="true" lb="google" rc="200" rm="OK" tn="JMeter Users 1-1" dt="text" by="11296"/>
+<httpSample t="181" lt="178" ts="1373549180841" s="true" lb="google" rc="200" rm="OK" tn="JMeter Users 1-1" dt="text" by="11328"/>
+<httpSample t="1150" lt="1145" ts="1373549181993" s="true" lb="google" rc="200" rm="OK" tn="JMeter Users 1-1" dt="text" by="11360"/>
+<httpSample t="1851" lt="863" ts="1373549183845" s="true" lb="yahoo" rc="200" rm="OK" tn="JMeter Users 1-1" dt="text" by="241635"/>
+
+</testResults>
